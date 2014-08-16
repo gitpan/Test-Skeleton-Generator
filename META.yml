@@ -26,7 +26,7 @@ no_index:
 provides:
   Test::Skeleton::Generator:
     file: lib/Test/Skeleton/Generator.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Class::Inspector: '0'
   File::Basename: '0'
@@ -40,5 +40,5 @@ resources:
   bugtracker: https://github.com/mannih/Test-Skeleton-Generator/issues
   homepage: https://github.com/mannih/Test-Skeleton-Generator
   repository: git://github.com/mannih/Test-Skeleton-Generator.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:MANNI
