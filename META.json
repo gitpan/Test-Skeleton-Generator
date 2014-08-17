@@ -61,20 +61,20 @@
    "provides" : {
       "Test::Skeleton::Generator" : {
          "file" : "lib/Test/Skeleton/Generator.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
    "resources" : {
       "bugtracker" : {
-         "web" : "https://github.com/mannih/Test-Skeleton-Generator/issues"
+         "web" : "https://git@github.com/mannih/Test-Skeleton-Generator/issues"
       },
-      "homepage" : "https://github.com/mannih/Test-Skeleton-Generator",
+      "homepage" : "https://git@github.com/mannih/Test-Skeleton-Generator",
       "repository" : {
-         "url" : "git://github.com/mannih/Test-Skeleton-Generator.git",
-         "web" : "https://github.com/mannih/Test-Skeleton-Generator"
+         "url" : "git://git@github.com/mannih/Test-Skeleton-Generator.git",
+         "web" : "https://git@github.com/mannih/Test-Skeleton-Generator"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_authority" : "cpan:MANNI"
 }
